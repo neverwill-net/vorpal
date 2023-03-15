@@ -1,3 +1,7 @@
+Hey music lovers, have you heard of Vorpal? It's this dope open-source media streaming project that lets you take control of your music collection like never before.
+
+Built with Python and Flask, Vorpal lets you search, add, update, and stream your tunes right to your devices. The best part? It's customizable, so you can make it your own. Give it a try and unlock a whole new world of musical possibilities!
+
 VORPAL: Versatile Online Repository for Playback and Analysis of Libraries
 
 VORPAL is a music streaming server designed to serve as a personal music library for web and mobile applications.
