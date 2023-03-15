@@ -1,6 +1,7 @@
 VORPAL: Versatile Online Repository for Playback and Analysis of Libraries
 
 VORPAL is a music streaming server designed to serve as a personal music library for web and mobile applications.
+
 Features
 
     RESTful API for managing and streaming audio files
